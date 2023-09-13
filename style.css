@@ -1,8 +1,8 @@
 h1 {
-color:blue
+color:blue;
 }
 h2 {
-color:green
+color:darkgreen;
 }
 ul {
     background-color: lightgray;
@@ -11,5 +11,5 @@ ol {
     background-color: lightgray;
 }
 a {
-    color:red
+    color:rgb(255,0,8);
 }
